@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd9b26c91c24ab064cfa3c250e25d4a7",
+    "revision": "a0cde67b4baf6d3c16b04805853feb26",
     "url": "/ComIT-Project/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ComIT-Project/static/css/2.6bb78800.chunk.css"
   },
   {
-    "revision": "4e13f5fc714c81f51cc5",
+    "revision": "d2e35d47dc4afa08f87e",
     "url": "/ComIT-Project/static/css/main.42766055.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ComIT-Project/static/js/2.60f86920.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e13f5fc714c81f51cc5",
-    "url": "/ComIT-Project/static/js/main.5ff4c559.chunk.js"
+    "revision": "d2e35d47dc4afa08f87e",
+    "url": "/ComIT-Project/static/js/main.520e3a32.chunk.js"
   },
   {
     "revision": "148a34e95453148337e1",
