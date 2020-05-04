@@ -9,7 +9,7 @@ class PortfolioList extends Component {
   render() {
     return (
       <div>
-        <div className="jumbotron m-0">
+        <div className="jumbotron mb-0">
           <h1 className="display-4">Portfolio</h1>
           <p className="lead">
             These are some exercises using what I learned from ComIT React
@@ -26,15 +26,6 @@ class PortfolioList extends Component {
         </div>
         <div className="d-flex jumbotron bg-white mt-0">
           <div className="container flex-fill mt-0">
-            {/* <ProjectItem
-              name="Vivian's Doodle Album"
-              pName="/Detail"
-              src={chart}
-              alt="Vivian's Doodle Album"
-              member="React, Bootstrap"
-              brief="A doodle album using some bootstrap css."
-            />
-            <ProjectItem /> */}
             <div className="media border p-3 mt-3" style={{ height: "160px" }}>
               <img
                 src={album} //"img_avatar3.png"
