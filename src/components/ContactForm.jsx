@@ -30,7 +30,7 @@ class ContactFrom extends Component {
 
   render() {
     return (
-      <div className="m-3 p-4">
+      <div className="m-3 p-4 bg-white">
         <form
           className="myForm"
           noValidate
