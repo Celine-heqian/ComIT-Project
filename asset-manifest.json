@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ComIT-Project/static/css/main.42766055.chunk.css",
-    "main.js": "/ComIT-Project/static/js/main.13a24585.chunk.js",
-    "main.js.map": "/ComIT-Project/static/js/main.13a24585.chunk.js.map",
+    "main.js": "/ComIT-Project/static/js/main.d03bfb6d.chunk.js",
+    "main.js.map": "/ComIT-Project/static/js/main.d03bfb6d.chunk.js.map",
     "runtime-main.js": "/ComIT-Project/static/js/runtime-main.06e98048.js",
     "runtime-main.js.map": "/ComIT-Project/static/js/runtime-main.06e98048.js.map",
     "static/css/2.6bb78800.chunk.css": "/ComIT-Project/static/css/2.6bb78800.chunk.css",
     "static/js/2.60f86920.chunk.js": "/ComIT-Project/static/js/2.60f86920.chunk.js",
     "static/js/2.60f86920.chunk.js.map": "/ComIT-Project/static/js/2.60f86920.chunk.js.map",
     "index.html": "/ComIT-Project/index.html",
-    "precache-manifest.e090dc44fbd3d578dd9faff004d08c7c.js": "/ComIT-Project/precache-manifest.e090dc44fbd3d578dd9faff004d08c7c.js",
+    "precache-manifest.eb10a706dede0dcf2ea2d69d776718ba.js": "/ComIT-Project/precache-manifest.eb10a706dede0dcf2ea2d69d776718ba.js",
     "service-worker.js": "/ComIT-Project/service-worker.js",
     "static/css/2.6bb78800.chunk.css.map": "/ComIT-Project/static/css/2.6bb78800.chunk.css.map",
     "static/css/main.42766055.chunk.css.map": "/ComIT-Project/static/css/main.42766055.chunk.css.map",
@@ -61,6 +61,6 @@
     "static/css/2.6bb78800.chunk.css",
     "static/js/2.60f86920.chunk.js",
     "static/css/main.42766055.chunk.css",
-    "static/js/main.13a24585.chunk.js"
+    "static/js/main.d03bfb6d.chunk.js"
   ]
 }
