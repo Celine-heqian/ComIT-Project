@@ -13,8 +13,8 @@ class Main extends Component {
     return (
       <main className="m-0" style={{ maxHeight: "800px" }}>
         <Switch>
-          <Route path="" exact component={Home} />
-          <Route path="/Home" exact component={Home} />
+          <Route path="/" exact component={Home} />
+          {/* <Route path="/Home" exact component={Home} /> */}
 
           <Route path="/Portfolio" exact component={PortfolioList} />
           <Route path="/Contact" exact component={Contact} />
