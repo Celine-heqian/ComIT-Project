@@ -87,12 +87,12 @@ class Home extends Component {
             <p className="lead my-1 font-weight-bold mt-3 ">
               Welcome to my website!
             </p>
-            <p className="lead text-justify mt-3">
+            <p className="lead text-justify mt-3 pr-5">
               I am now living in Calgary, Canada. In the past three months, I
               learned HTML, CSS and React at ComIT,which is unforgetable. After
               comlpeting this course, I will continue to learn programming.
             </p>
-            <p className="lead text-justify mt-3">
+            <p className="lead text-justify mt-3 pr-5">
               If you are interested in programming and willing to share your
               idea or discuss about it, you could contact me.
             </p>
