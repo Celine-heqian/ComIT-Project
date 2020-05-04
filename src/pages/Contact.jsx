@@ -5,7 +5,7 @@ class Contact extends Component {
   render() {
     return (
       <div className="">
-        <div className="jumbotron mb-0 h-75">
+        <div className="jumbotron m-0 h-75">
           <h1 className="display-4">Contact</h1>
           <p className="lead">
             If you are also interested in programming, you are welcome to

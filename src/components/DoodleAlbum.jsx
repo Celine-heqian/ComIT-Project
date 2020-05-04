@@ -31,7 +31,7 @@ class DoodleAlbum extends Component {
               </div>
             </div>
           </div>
-          <div className="clo-8 flex-fill">
+          <div className="clo-7 flex-fill">
             <h1 className="display-4 text-light">Vivian's Doodle Album</h1>
           </div>
         </div>

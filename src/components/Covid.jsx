@@ -53,24 +53,6 @@ class Covid extends Component {
       }
     }
     this.setState({ countries, allCountryTotal });
-
-    // console.log(data);
-    // console.log(timeLabels);
-    // console.log(result[1]);
-
-    // console.log(result[0]);
-    // console.log(result[1]);
-
-    // console.log("This is the header");
-    // // console.log(data[0]);
-    // console.log(header);
-    // console.log("The first row");
-    // console.log(covidData[0]);
-
-    // console.log("This is covid Data");
-    // console.log(covidData);
-    // console.log(covidData.length);
-    // console.log(covidData[100]);
   }
 
   handleOnRowSelect = (countryToUpdate) => {

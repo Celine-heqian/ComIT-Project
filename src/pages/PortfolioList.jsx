@@ -9,7 +9,7 @@ class PortfolioList extends Component {
   render() {
     return (
       <div>
-        <div className="jumbotron mb-0">
+        <div className="jumbotron m-0">
           <h1 className="display-4">Portfolio</h1>
           <p className="lead">
             These are some exercises using what I learned from ComIT React
@@ -64,13 +64,13 @@ class PortfolioList extends Component {
               <div className="media-body">
                 <h4>
                   <NavLink exact to="/Portfolio">
-                    Up to come.....
+                    Come soon.....
                   </NavLink>
                   <small className="pl-2">
-                    <i> Up to come</i>
+                    <i> Come soon</i>
                   </small>
                 </h4>
-                <p>Up to come</p>
+                <p>Come soon</p>
               </div>
             </div>
           </div>
